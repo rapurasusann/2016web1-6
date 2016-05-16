@@ -14,6 +14,13 @@ background-color: white;
   float: left;
   margin-right: 30px;
 }
+
+.curry=picture:after{
+  content: "";
+  clear: both;
+  display: blpck;
+}
+
 .explanation{
   float: left;
 }
