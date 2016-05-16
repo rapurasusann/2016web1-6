@@ -15,7 +15,7 @@ background-color: white;
   margin-right: 30px;
 }
 
-.curry=picture:after{
+.curry_picture:after{
   content: "";
   clear: both;
   display: blpck;
