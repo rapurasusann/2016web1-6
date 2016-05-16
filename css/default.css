@@ -9,6 +9,11 @@ padding: 40px 80px;
 border: green 1px solid;
 background-color: white;
 }
+
+.photo{
+  float: lift;
+  margin-right: 30px;
+}
 .explanation{
   float: left;
 }
