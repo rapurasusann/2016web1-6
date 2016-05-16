@@ -35,3 +35,11 @@ dt{
   -weidkit-appearance: none;
   margin: 5px;
 }
+
+.btn:hover{
+  color: white;
+}
+
+.btn:active{
+  opacit: 0.7;
+}
