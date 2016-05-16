@@ -30,3 +30,8 @@ dt{
   float: left;
   font-weight: bold;
 }
+
+.btn{
+  -weidkit-appearance: none;
+  margin: 5px;
+}
